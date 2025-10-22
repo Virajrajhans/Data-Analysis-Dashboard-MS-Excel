@@ -15,4 +15,11 @@ The Vrinda Store wants to create an annual sale report for 2024. So that, the ow
 -	Which Channel is contributing maximum to the Sales?
 -	Highest selling category?
 -	Percentage of Total Orders Delivered
-- Dashbord Interaction 
+
+- Dashbord Interaction https://github.com/Virajrajhans/Data-Analysis-Dashboard-MS-Excel/blob/main/Vrinda%20-Store-Data%20-Analysis%20Dashboard.png View Dashbord 
+
+## Process
+-	Verify data for any missing values and anomalies, and sort out the same .
+-	Made sure data is consistent and clean with respect to data type, data format and values used.
+-	Created pivot tables according to the questions asked.
+-	Merge all pivot tables into one dashboard and apply slicer to make dynamic.
