@@ -23,3 +23,6 @@ The Vrinda Store wants to create an annual sale report for 2024. So that, the ow
 -	Made sure data is consistent and clean with respect to data type, data format and values used.
 -	Created pivot tables according to the questions asked.
 -	Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+## Dashboard
+<img width="1873" height="880" alt="Vrinda -Store-Data -Analysis Dashboard" src="https://github.com/user-attachments/assets/1ea61c0f-1f27-423c-a5a5-d7d033372141" />
